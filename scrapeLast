@@ -1,0 +1,4 @@
+# A python script to scrape last winning FD entry
+
+from lxml import html
+import requests 
